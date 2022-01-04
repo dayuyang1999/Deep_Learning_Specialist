@@ -2,6 +2,7 @@
 
 Programming assignments and quizzes from all courses in the Coursera [Deep Learning specialization](https://www.coursera.org/specializations/deep-learning) offered by `deeplearning.ai`.
 
+![](https://github.com/dayuyang1999/Deep_Learning_Specialist/blob/main/dl-s.png)
 
 ## Notes
 
